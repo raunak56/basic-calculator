@@ -1,0 +1,22 @@
+html,body
+.container {
+    width: 450px;
+    height: 450px;
+    margin: 50px auto;
+    justify-content: center;
+    align-items:center;
+  }
+  
+  #display {
+    width: 92%;
+    
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin:  15px;
+
+    border-radius: 6px solid;
+    box-shadow:inset 8px 8px 8px  rgb(233, 229, 229)
+    inset -8px -8px 8px #ffffff;
+                 
+  }
+
